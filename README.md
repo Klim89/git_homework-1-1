@@ -1,7 +1,6 @@
 * Сложность: виды \[ [демонстрация](https://www.desmos.com/calculator/hu3tfwk5dg?lang=ru) \]
-* Примеры \[ [код](Day01_Intro/Program.cs) \]
+*fgsdfgfsdg
 * Подсчёт операций
-* Презентация \
+dsfgsdfg
 
-hljkhkefhsdkfghdklfj
-ksdfksdfkljsldkfl
+dsfgdsfgdsgvbcxb  reb sdfd
